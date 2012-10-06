@@ -14,3 +14,6 @@
 exit 0
 /sbin/ifconfig eth0:1 192.168.1.130 broadcast 192.168.1.255 netmask 255.255.255.0 up
 /sbin/route add -host 192.168.1.130 dev eth0:1
+/sbin/ifconfig eth0:2 192.168.1.131 broadcast 192.168.1.255 netmask 255.255.255.0 up
+/sbin/route add -host 192.168.1.131 dev eth0:2
+
