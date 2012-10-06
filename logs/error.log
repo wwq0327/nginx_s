@@ -20,3 +20,5 @@
 2012/10/06 08:14:44 [error] 9700#0: *3 open() "/home/wyatt/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
 2012/10/06 08:27:16 [error] 9783#0: *1 open() "/home/wyatt/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
 2012/10/06 08:27:21 [error] 9783#0: *3 open() "/home/wyatt/nginx/html/v2/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: 192.168.1.130, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.130"
+2012/10/06 08:46:36 [error] 9783#0: *5 open() "/home/wyatt/nginx/html/v2/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: 192.168.1.130, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.130"
+2012/10/06 08:46:42 [error] 9783#0: *7 open() "/home/wyatt/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
