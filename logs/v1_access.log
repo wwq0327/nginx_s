@@ -31,3 +31,6 @@
 192.168.1.100 - - [06/Oct/2012:10:09:08 -0400] "GET /favicon.ico HTTP/1.1" 404 201 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.11 (KHTML, like Gecko) Ubuntu/12.04 Chromium/20.0.1132.47 Chrome/20.0.1132.47 Safari/536.11"
 192.168.1.100 - - [06/Oct/2012:10:09:08 -0400] "GET /favicon.ico HTTP/1.1" 404 201 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.11 (KHTML, like Gecko) Ubuntu/12.04 Chromium/20.0.1132.47 Chrome/20.0.1132.47 Safari/536.11"
 192.168.1.100 - - [06/Oct/2012:10:09:14 -0400] "-" 400 0 "-" "-"
+192.168.1.100 - - [06/Oct/2012:10:27:36 -0400] "GET / HTTP/1.1" 200 368 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.11 (KHTML, like Gecko) Ubuntu/12.04 Chromium/20.0.1132.47 Chrome/20.0.1132.47 Safari/536.11"
+192.168.1.100 - - [06/Oct/2012:10:27:37 -0400] "GET /favicon.ico HTTP/1.1" 404 201 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.11 (KHTML, like Gecko) Ubuntu/12.04 Chromium/20.0.1132.47 Chrome/20.0.1132.47 Safari/536.11"
+192.168.1.100 - - [06/Oct/2012:10:27:47 -0400] "-" 400 0 "-" "-"
