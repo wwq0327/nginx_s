@@ -22,3 +22,42 @@
 2012/10/06 08:27:21 [error] 9783#0: *3 open() "/home/wyatt/nginx/html/v2/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: 192.168.1.130, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.130"
 2012/10/06 08:46:36 [error] 9783#0: *5 open() "/home/wyatt/nginx/html/v2/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: 192.168.1.130, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.130"
 2012/10/06 08:46:42 [error] 9783#0: *7 open() "/home/wyatt/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:06:10 [error] 9783#0: *10 open() "/home/wyatt/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:06:18 [error] 9783#0: *10 open() "/home/wyatt/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:06:30 [emerg] 10296#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:06:30 [emerg] 10296#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:06:30 [emerg] 10296#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:06:30 [emerg] 10296#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:06:30 [emerg] 10296#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:07:01 [emerg] 10304#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:07:01 [emerg] 10304#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:07:01 [emerg] 10304#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:07:01 [emerg] 10304#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:07:01 [emerg] 10304#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:07:01 [emerg] 10304#0: still could not bind()
+2012/10/06 10:08:09 [emerg] 10320#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:08:09 [emerg] 10320#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:08:09 [emerg] 10320#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:08:09 [emerg] 10320#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:08:09 [emerg] 10320#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:08:15 [emerg] 10328#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:08:15 [emerg] 10328#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:08:15 [emerg] 10328#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:08:15 [emerg] 10328#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2012/10/06 10:08:44 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:08:46 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:08:47 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:08:50 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:08:51 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:08:53 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:08:54 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:08:55 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:08:56 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:08:56 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:08:58 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:08:59 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:09:01 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:09:03 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:09:04 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:09:08 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
+2012/10/06 10:09:08 [error] 10335#0: *12 open() "/home/wyatt/nginx/favicon.ico" failed (2: No such file or directory), client: 192.168.1.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108"
